@@ -26,3 +26,4 @@ print(f"Điện năng: {dien_nang_kwh} kWh")
 print(f"Chi phí: {chi_phi:.2f} VND")
 print(f"Trên 60 phút: {tren_60_phut}")
 print(f"Ghi nhận lúc: {thoi_diem_hien_tai}")
+# Completed Chapter 2 case study 
